@@ -69,7 +69,7 @@ export default {
       this.changeLogo({
         newLogo: 'https://www.runoob.com/wp-content/uploads/2016/02/react.png',
         second: '老四',
-        uname: 'jack'
+        uname: 'Ben-10'
       })
     },
     ...mapActions(['aget']),
